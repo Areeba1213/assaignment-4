@@ -27,3 +27,4 @@ def computer_guesses():
             print("Please type 'H', 'L', or 'C'.")
 
 computer_guesses()
+
